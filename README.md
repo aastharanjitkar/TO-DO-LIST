@@ -29,3 +29,7 @@ Contributions are welcome! If you have any improvements or suggestions, please f
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Interface Design
+![Screenshot 2024-08-17 153553](https://github.com/user-attachments/assets/aba41ec6-c23a-461e-8150-7b9eb0af6ae0)
+
